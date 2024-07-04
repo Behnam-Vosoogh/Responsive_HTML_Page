@@ -23,7 +23,7 @@ This project is a responsive website for a university. It includes several pages
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/university-website.git
+   git clone https://github.com/Behnam-Vosoogh/Responsive_HTML_Page.git   
 2. Setup:
 - Ensure you have a local server environment (e.g., XAMPP, WAMP) for PHP files.
 - Place the project files in the server's root directory.
